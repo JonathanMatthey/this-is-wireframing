@@ -533,9 +533,9 @@ footer[role=contentinfo] img {
 		vertical-align: middle;
 	}
 	.home .intro a {
-		color: #fff;
-		color: rgba(255,255,255,0.8);
-		border-bottom: 1px solid rgba(255,255,255,0.8);
+		color: #000;
+		color: rgba(1,1,1,0.8);
+		border-bottom: 1px solid rgba(1,1,1,0.8);
 	}
 	.home .intro a:hover, .home .intro a:focus {
 		color: #000;
