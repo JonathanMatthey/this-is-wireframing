@@ -525,8 +525,8 @@ footer[role=contentinfo] img {
 		height: 90%;
 		display: table;
 		text-align: center;
-		color: #fff;
-		color: rgba(255,255,255,0.7);
+		color: #000;
+		/*color: rgba(255,255,255,0.7);*/
 	}
 	.home > div {
 		display: table-cell;
